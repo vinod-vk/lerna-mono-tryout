@@ -1,8 +1,8 @@
 {
   "name": "@project/ui",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "dependencies": {
-    "@project/utils": "^1.0.2"
+    "@project/utils": "^1.1.0"
   },
   "license": "MIT",
   "gitHead": "fe5c88637ae6ae0d3b1af903f7fe512973415cad"
