@@ -1,13 +1,14 @@
 {
   "name": "@project/utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
   "scripts": {
     "build": "tsc"
   },
   "dependencies": {
-    "@project/utils": "^1.0.1"
+    "@project/utils": "^1.0.2"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "fe5c88637ae6ae0d3b1af903f7fe512973415cad"
 }

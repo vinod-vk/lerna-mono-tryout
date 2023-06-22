@@ -1,6 +1,6 @@
 {
   "name": "@project/app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "dev": "nodemon",
     "build": "next build && tsc --project tsconfig.server.json",
@@ -8,8 +8,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@project/ui": "^1.0.1",
-    "@project/utils": "^1.0.1",
+    "@project/ui": "^1.0.2",
+    "@project/utils": "^1.0.2",
     "cross-env": "7.0.2",
     "next": "latest",
     "react": "16.13.1",
@@ -25,5 +25,6 @@
     "path": "0.12.7",
     "ts-node": "8.10.2"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "fe5c88637ae6ae0d3b1af903f7fe512973415cad"
 }
