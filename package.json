@@ -9,7 +9,7 @@
     "build": "lerna run --parallel build",
     "app:build": "lerna run --scope={@project/utils,@project/app} build",
     "app:start": "lerna run --scope @project/app start",
-    "release": "lerna publish ${RELEASE_VERSION_TYPE:-patch} --force-publish --registry https://npm.anakinmedia.com",    
+    "release": "lerna publish ${RELEASE_VERSION_TYPE:-minor} --force-publish --registry https://npm.anakinmedia.com",    
     "pretify": "prettier --write ."
   },
   "devDependencies": {
