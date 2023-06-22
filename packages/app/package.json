@@ -1,6 +1,6 @@
 {
   "name": "@project/app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "dev": "nodemon",
     "build": "next build && tsc --project tsconfig.server.json",
@@ -8,8 +8,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@project/ui": "^1.0.0",
-    "@project/utils": "^1.0.0",
+    "@project/ui": "^1.0.1",
+    "@project/utils": "^1.0.1",
     "cross-env": "7.0.2",
     "next": "latest",
     "react": "16.13.1",
